@@ -1,3 +1,4 @@
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 <h1 align="center">Hi 👋, I'm Swathi</h1>
 <h3 align="center">A passionate Data Analyst working on finding better solutions for the real-time data problems</h3>
 
